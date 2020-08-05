@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="jaka-postgres">
+    <output-path>$PROJECT_DIR$/out/artifacts/jaka_postgres</output-path>
+    <root id="root">
+      <element id="directory" name="jaka-postgres">
+        <element id="library" level="project" name="postgresql-42.2.14" />
+      </element>
+    </root>
+  </artifact>
+</component>
